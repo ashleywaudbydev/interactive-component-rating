@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-Web capture_15-9-2022_124710_127.0.0.1.jpeg
+![Web capture_15-9-2022_124710_127 0 0 1](https://user-images.githubusercontent.com/84845712/190398770-007dafee-c1d5-4e92-85ca-416bbdca6665.jpeg)
+
 
 
 ### Links
@@ -62,8 +63,8 @@ I learned the timeout method and how to refreh the page after a function runs.
 
 ## Author
 
-- Githun - 
-- Frontend Mentor - [@00awaudby]
+- Github - 
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
 
