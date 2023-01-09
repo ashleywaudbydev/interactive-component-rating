@@ -63,7 +63,7 @@ I learned the timeout method and how to refreh the page after a function runs.
 
 ## Author
 
-- Github - https://github.com/00awaudby
+- Github - [00awaudby]https://github.com/00awaudby
 - Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
