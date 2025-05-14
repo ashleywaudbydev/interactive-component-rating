@@ -49,7 +49,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: https://ashleywaudbydev.github.io/interactive-component-rating/
+- Live Site URL: [Interactive componant](https://ashleywaudbydev.github.io/interactive-component-rating/)
 - Solution: https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub/interactive-crating-component-VDSZqYYppy
 
 ## My process
